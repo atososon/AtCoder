@@ -1,0 +1,12 @@
+{
+	"id": 12347676,
+	"epoch_second": 1587902755,
+	"problem_id": "abc164_b",
+	"contest_id": "abc164",
+	"user_id": "atososon",
+	"language": "C (Clang 10.0.0)",
+	"point": 200,
+	"length": 307,
+	"result": "AC",
+	"execution_time": 1
+}
