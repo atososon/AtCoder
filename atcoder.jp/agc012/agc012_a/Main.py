@@ -1,0 +1,5 @@
+n = int(input())
+a = list(map(int, input().split()))
+a.sort()
+ans = sum(a[-2 : -1*n*2-1 : -2])
+print(ans)
